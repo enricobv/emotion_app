@@ -4,3 +4,4 @@ opencv_contrib_python==4.10.0.84
 opencv_python==4.10.0.84
 Pillow==11.1.0
 streamlit==1.40.1
+setuptools>=59.5.0
