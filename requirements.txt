@@ -4,4 +4,4 @@ opencv-python-headless
 Pillow==11.1.0
 streamlit==1.40.1
 setuptools
-
+tensorflow
