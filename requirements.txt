@@ -1,6 +1,6 @@
 fer==22.5.1
 numpy==1.26
-opencv_python==4.10.0.84
+opencv-python-headless
 Pillow==11.1.0
 streamlit==1.40.1
 setuptools
